@@ -15,18 +15,14 @@ I have started my coding journey with HTML, CSS and JavaScript
 ### About Me 🚀:-
 
 Right now, I have created and I liked are...
-1. <a href="https://github.com/Piyush-bansaI/C_Projects/tree/main/Rock_Paper_Scissor">Rock Paper Scissor Game 🎮</a>
+1. <a href="https://github.com/piyush-bansal-85/C_Projects/tree/main/Rock_Paper_Scissor">Rock Paper Scissor Game 🎮</a>
+1. <a href="https://github.com/piyush-bansal-85/broGRUB">broGRUB - GRUB interface customized</a>
 
 ## Also, these are my hosted websites. you can check it out!:-
   - <a href="https://anibro-five.vercel.app/" target="_blank">ANIbro - Create and Manage anime list for watching later.</a>
-
----
-Recently I have also opened my social media channel, you can also check it out:-
-- Youtube:- <a href="https://www.youtube.com/@BrosTech-mad" target="_blank">Bro's Tech</a>
 
 ### If you have to reach me, these are the ways:-
 * ✉️Email:- <a href="mailto:support.brotech@gmail.com" target="_blank">Brotech Support</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-bansal-85&repo=My-portfolio&layout=compact&bg_color=121212&title_color=fff&text_color=d6d6d6&border_color=404040)
-
 
