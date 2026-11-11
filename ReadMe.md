@@ -13,25 +13,20 @@ I have started my coding journey with HTML, CSS and JavaScript
 <img src="https://github.com/user-attachments/assets/5c9683ed-2015-4bd5-9d0c-bd0d0609d5b1" title="C Programming" alt="C" width="50px" height="50px">
 
 ### About Me 🚀:-
-I am currently 17 y/o and I have learnt the basics of all the languages and you can also checkout my codes stored in this README.
-
 
 Right now, I have created and I liked are...
-1. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-2">Todo list 📑</a>
-2. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-3">Notes Webapp 📒</a>
-3. <a href="https://github.com/Piyush-bansaI/C_Projects/tree/main/Rock_Paper_Scissor">Rock Paper Scissor Game 🎮</a>
-4. <a href="">BroJarvis 🤖</a>
+1. <a href="https://github.com/Piyush-bansaI/C_Projects/tree/main/Rock_Paper_Scissor">Rock Paper Scissor Game 🎮</a>
 
-## Also, these are my hosted websites. I hope you gonna love it 🖥️:-
+## Also, these are my hosted websites. you can check it out!:-
+  - <a href="https://anibro-five.vercel.app/" target="_blank">ANIbro - Create and Manage anime list for watching later.</a>
 
-  - <a href="https://my-portfolio-seven-chi-22.vercel.app/" target="_blank">Notes</a> <b>(currently working on it 🔧)</b>
-  - <a href="https://anibro-five.vercel.app/" target="_blank">ANIbro</a>
-
+---
+Recently I have also opened my social media channel, you can also check it out:-
+- Youtube:- <a href="https://www.youtube.com/@BrosTech-mad" target="_blank">Bro's Tech</a>
 
 ### If you have to reach me, these are the ways:-
-* ✉️Email:- <a href="Kajal891bansal@gmail.com" target="_blank">Kajal891bansal@gmail.com</a>
+* ✉️Email:- <a href="mailto:support.brotech@gmail.com" target="_blank">Brotech Support</a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-bansaI&repo=My-portfolio&layout=compact&bg_color=121212&title_color=fff&text_color=d6d6d6&border_color=404040)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-bansal-85&repo=My-portfolio&layout=compact&bg_color=121212&title_color=fff&text_color=d6d6d6&border_color=404040)
 
 
